@@ -24,10 +24,10 @@ export default function App() {
 
   return (
     <div>
-      <h2>半円メーターグラフ</h2>
+      <h2>SemiCircleMeter</h2>
       <SemiCircleMeter value={meterValue} />
       <button onClick={() => setMeterValue(Math.random() * 100)}>
-        値をランダムに変更
+        Change Value
       </button>
     </div>
   );

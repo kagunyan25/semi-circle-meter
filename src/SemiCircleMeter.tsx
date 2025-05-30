@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export const SemiCircleMeter = ({ value }) => {
+export const SemiCircleMeter = ({ value }: { value: number }) => {
   // value は 0 から 100 の値とします
   const radius = 80; // 半径
   const circumference = Math.PI * radius; // 円周の半分（半円の弧長）
