@@ -1,2 +1,5 @@
 # semi-circle-meter
-Created with CodeSandbox
+
+When you click the button, you can see semi-circle-meter animation.
+
+https://github.com/kagunyan25/semi-circle-metar/src/images/demo.png
